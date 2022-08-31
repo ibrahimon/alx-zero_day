@@ -1,1 +1,1 @@
-﻿This project about git and push
+My frist readme
